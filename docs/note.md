@@ -6,3 +6,5 @@
 5. 开启attribute变量(gl.enableVertexAttribArray())
 
 > WebGL中, 矩阵元素是按照列主序存储在数组中的
+
+> 在WebGL中, 如果顶点着色器与片元着色器有类型和命名都相同的varying变量, 那么顶点着色器赋给该变量的值就会被自动地传入片元着色器
