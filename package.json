@@ -14,6 +14,7 @@
   "author": "lungern",
   "license": "ISC",
   "dependencies": {
+    "@shd101wyy/mume": "^0.3.6",
     "express": "^4.16.4",
     "nodemon": "^1.18.4",
     "opener": "^1.5.1"
